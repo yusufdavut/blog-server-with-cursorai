@@ -1,6 +1,7 @@
 # Blog API
 
 Bu proje, blog yazılarını yönetmek için geliştirilmiş bir REST API'dir. Express.js ve TypeScript kullanılarak geliştirilmiştir.
+NOT: Test amaçlı CursorAI ile yazılmıştır.
 
 ## Özellikler
 
